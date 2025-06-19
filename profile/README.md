@@ -124,9 +124,7 @@ _TechToYou LLC combines traditional IT/MSP services with custom software develop
 <!-- DevGrow AI Framework Card -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px 0; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-<div style="background: white; border-radius: 50%; padding: 10px; margin-right: 15px; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center;">
-🎓
-</div>
+<div style="background: white; border-radius: 50%; padding: 10px; margin-right: 15px; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center;">🎓</div>
 <div>
 <h3 style="margin: 0; color: white; font-size: 24px; font-weight: bold;">DevGrow AI Framework</h3>
 <p style="margin: 5px 0 0 0; color: #f0f0f0; font-style: italic;">AI-Powered Developer Mentoring System</p>
