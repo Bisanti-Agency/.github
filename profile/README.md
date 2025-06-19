@@ -49,6 +49,18 @@ To accelerate business growth through innovative software solutions, leveraging 
 - **Team Mentoring**: Developer skill enhancement and best practices
 - **Technology Strategy**: Technical roadmap planning and execution
 
+### **🖥️ IT & Managed Services**
+
+> **TechToYou LLC** - Our specialized IT and Managed Service Provider division
+
+- **IT Infrastructure Management**: Complete technology stack oversight and maintenance
+- **Managed Service Provider (MSP)**: Comprehensive IT support for businesses
+- **Cloud Solutions**: Infrastructure migration, optimization, and ongoing management
+- **Security & Compliance**: Enterprise-grade security implementation and monitoring
+- **Custom Enterprise Applications**: Full-service development from IT consulting to software delivery
+
+*TechToYou LLC combines traditional IT/MSP services with custom software development, providing end-to-end technology solutions for businesses requiring both infrastructure management and specialized application development.*
+
 ---
 
 ## 🛠️ **Technology Expertise**
@@ -60,19 +72,19 @@ To accelerate business growth through innovative software solutions, leveraging 
 ### **Frontend Technologies**
 
 - ⚡ **JavaScript**: ES6+, TypeScript
-- ⚛️ **Frameworks**: React, Vue.js, Angular
-- 🎨 **Styling**: CSS3, Sass, Tailwind CSS
-- 📱 **Mobile**: Progressive Web Apps (PWAs)
+- ⚛️ **Frameworks**: React, Vue.js, Angular, Next.js
+- 🎨 **Styling**: CSS3, Sass, Tailwind CSS, Ant Design
+- 📱 **Mobile**: Progressive Web Apps (PWAs), Flutter/Dart
 
 </td>
 <td width="50%">
 
 ### **Backend Technologies**
 
+- 🐍 **Python**: Django, Flask, FastAPI
 - 🐘 **PHP**: Laravel, WordPress, Custom APIs
 - 🟢 **Node.js**: Express, NestJS, GraphQL
-- 🐍 **Python**: Django, Flask, FastAPI
-- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
+- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
 
 </td>
 </tr>
@@ -131,6 +143,74 @@ Custom WordPress plugin for managing multiple business locations with advanced f
 - 🗺️ Multi-location management interface
 - 🔄 Custom post types and meta fields
 - ⚡ Performance-optimized for large datasets
+
+### **💼 TTYLLC Enterprise Platform**
+
+_Building Inspection Management System - Complete Digital Transformation_
+
+**Business Context:** A comprehensive digital transformation project for a building inspection company, combining IT/MSP services with custom software development to digitize and optimize their entire inspection workflow.
+
+**Project Scope:** Complete business modernization including:
+- 🖥️ **IT Infrastructure Overhaul**: Network, servers, security, and cloud migration
+- 📱 **Custom Application Development**: Web platform, mobile app, and API backend  
+- 🔄 **Business Process Digitization**: From paper-based to fully digital workflows
+- 📊 **Data Management System**: Centralized database with reporting and analytics
+
+**Technical Architecture:**
+
+- 🐍 **Backend API (ttyllc-admin-v2)**: Django REST framework with Python
+  - Complex relational database design (Buildings → Communities → Regions → Builders)
+  - Inspection workflow management with dynamic checklist systems
+  - Role-based access control (Field Managers, Inspectors, Administrators)
+  - File upload and S3 storage integration for inspection photos and documents
+  - Multi-tenant architecture supporting different building types and inspection protocols
+
+- 🌐 **Frontend Dashboard (ttyllc-admin-v2-frontend)**: Enterprise-grade Next.js application
+  - Next.js 14+ with TypeScript for type safety
+  - Ant Design (antd) component library for enterprise UI
+  - Redux Toolkit for state management
+  - Google Maps integration and Excel export capabilities
+  - Real-time inspection tracking and assignment management
+
+- 📱 **Mobile Application (ttyllc-mobile-v2)**: Cross-platform Flutter app
+  - Flutter framework with Dart programming language
+  - Native Android/iOS capabilities for field inspectors
+  - Geolocation, image capture, and digital signatures
+  - Offline-first architecture for field operations without internet connectivity
+  - Barcode/QR code scanning for building identification
+  - Dynamic form rendering based on inspection type and building requirements
+
+**Business Logic Deep Dive:**
+
+The system manages complex building inspection workflows across multiple dimensions:
+
+- **Hierarchical Organization**: Buildings belong to Communities within Regions, built by specific Builders
+- **Inspection Types**: Configurable inspection categories (Foundation, Framing, Electrical, Plumbing, Final)
+- **Dynamic Checklists**: Field-configurable questions with outcomes, photo requirements, and comments
+- **Quality Control**: Multi-stage review process with inspector assignments and approval workflows
+- **Compliance Tracking**: Automated record-keeping for regulatory compliance and reporting
+
+**Key Features:**
+
+- 🔄 **Full-Stack Integration**: Seamless communication between all platform components
+- 📊 **Enterprise Data Management**: Complex inspection workflows with comprehensive reporting
+- 🗺️ **Geospatial Capabilities**: Location-based services, mapping, and route optimization
+- 📱 **Mobile-First Field Operations**: Optimized for on-site inspections with offline capabilities
+- 🔐 **Enterprise Security**: Role-based access control, audit trails, and data protection
+- 📈 **Scalable Architecture**: Containerized deployment with Django migrations and database optimization
+- 📋 **Configurable Workflows**: Admin-customizable inspection types, questions, and approval processes
+- 🏢 **Multi-Company Support**: System designed to support multiple inspection companies or regions
+
+**Results Delivered:**
+- ✅ **Complete Digital Transformation**: Eliminated paper-based processes entirely
+- ✅ **Operational Efficiency**: 70% reduction in inspection processing time
+- ✅ **Data Accuracy**: Real-time validation and photo documentation requirements
+- ✅ **Scalability**: System handles thousands of inspections across multiple regions
+- ✅ **Compliance**: Automated regulatory reporting and audit trail capabilities
+
+*This project demonstrates our unique capability to combine traditional IT/MSP services with enterprise-grade custom software development, delivering complete business transformation solutions.*
+
+_Note: Mobile development executed through strategic partnership while maintaining Bisanti Agency technical oversight and delivery responsibility._
 
 ### **🌐 Custom Web Applications**
 
@@ -236,14 +316,16 @@ graph LR
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -281,10 +363,15 @@ Book a **free 30-minute consultation** to discuss your project needs:
 
 ## 📚 **Resources & Documentation**
 
-- **📖 [Development Blog](https://bisanti.agency/blog)**: Technical insights and industry trends
+> **🚧 Content in Development**  
+> We're currently building comprehensive resources for our community. Coming soon:
+
+- **📖 Development Blog**: Technical insights and industry trends _(launching soon)_
 - **🛠️ [Open Source Projects](https://github.com/Bisanti-Agency)**: Tools and frameworks for the community
-- **📋 [Case Studies](https://bisanti.agency/case-studies)**: Detailed project breakdowns and results
-- **🎥 [Video Tutorials](https://bisanti.agency/tutorials)**: Educational content for developers
+- **📋 Case Studies**: Detailed project breakdowns and results _(in development)_
+- **🎥 Video Tutorials**: Educational content for developers _(coming soon)_
+
+_Stay tuned for updates on our latest content and resources!_
 
 ---
 
